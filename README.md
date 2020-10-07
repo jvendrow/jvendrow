@@ -7,4 +7,4 @@
 - 📫 How to reach me: jvendrow@math.ucla.edu.
 - ⚡ Fun fact: I have a twin brother, [Edward Vendrow](http://edwardv.com/), with similar research interests.
 
-To learn more about me and take a look at my projects, visit: [www.joshvendrow.com](www.joshvendrow.com)
+To learn more about me and take a look at my projects, visit: [www.joshvendrow.com](https://www.joshvendrow.com)
