@@ -1,4 +1,4 @@
-### Hi there!
+### Hi there! I'm Josh. Here's some info about me:
 
 - 🎓 Third year undergrad @ UCLA studying Computer Science and Mathematics.
 - 🔭 Research assisant for UCLA Applied Math advised by [Deanna Needell](https://www.math.ucla.edu/~deanna/)
