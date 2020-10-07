@@ -1,7 +1,7 @@
 ### Hi!
 
 <!--
-**jvendrow/jvendrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jvendrow/jvendrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
 
 - 🎓 Third year undergrad @ UCLA studying Computer Science and Mathematics.
 - 🔭 Research assisant for UCLA Applied Math advised by [Deanna Needell](https://www.math.ucla.edu/~deanna/)
