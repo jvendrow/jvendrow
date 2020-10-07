@@ -1,10 +1,10 @@
 ### Hi there! I'm Josh. Here's some info about me:
 
 - 🎓 Third year undergrad @ UCLA studying Computer Science and Mathematics.
-- 🔭 Research assisant for UCLA Applied Math advised by [Deanna Needell](https://www.math.ucla.edu/~deanna/)
-- 👯 Some of my collaborators include [Jamie Haddock](https://www.math.ucla.edu/~jhaddock/), [Hanbaek Lyu](https://hanbaeklyu.com/), and [Elena Sizikova](https://esizikova.github.io/).
+- 🔭 Research assisant for UCLA Applied Math advised by [Deanna Needell](https://www.math.ucla.edu/~deanna/).
 - ⏰ Currently working on applications of nonnegative matrix factorization (NMF) for network science, computer vision, and topic modeling.
-- 📫 How to reach me: jvendrow@math.ucla.edu
+- 👯 Some of my collaborators include [Jamie Haddock](https://www.math.ucla.edu/~jhaddock/), [Hanbaek Lyu](https://hanbaeklyu.com/), and [Elena Sizikova](https://esizikova.github.io/).
+- 📫 How to reach me: jvendrow@math.ucla.edu.
 - ⚡ Fun fact: I have a twin brother, [Edward Vendrow](http://edwardv.com/), with similar research interests.
 
 To learn more about me and take a look at my projects, visit: [www.joshvendrow.com](www.joshvendrow.com)
